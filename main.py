@@ -12,8 +12,3 @@ print("Pythagoras is: \n", math.sqrt(answer)) #// ac = (ab**2 + bc**2) ** (1/2)
 
 #THAPELO'S
 
- Commit directly to the main branch.
-
-
-
-git
